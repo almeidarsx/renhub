@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/almeidarxs/RenHub/main/RenHub.lua
+https://raw.githubusercontent.com/almeidarxs/Kenos/main/RenHub.lua)
